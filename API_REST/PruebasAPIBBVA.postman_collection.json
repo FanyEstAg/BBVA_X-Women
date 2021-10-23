@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "6618fff4-2c9e-40f3-b8f2-47e8b0e6d935",
+		"name": "PruebasAPIBBVA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "PruebaHolaMundo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://apibbva.test:82/",
+					"protocol": "http",
+					"host": [
+						"apibbva",
+						"test"
+					],
+					"port": "82",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PruebaHolaParametros",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://apibbva.test:82/hola/Fany",
+					"protocol": "http",
+					"host": [
+						"apibbva",
+						"test"
+					],
+					"port": "82",
+					"path": [
+						"hola",
+						"Fany"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
