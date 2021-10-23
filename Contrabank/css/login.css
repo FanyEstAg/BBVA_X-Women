@@ -1,0 +1,4 @@
+.flex-grow-1.bg-login-image{
+	background: url("../resources/ahorro.svg") center no-repeat;
+	background-position-x: 30px;
+}
