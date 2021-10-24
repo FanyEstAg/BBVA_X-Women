@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://apibbva.test:82/",
+					"raw": "http://apibbva.test:82/", //cambiar a url donde se encuentre alojada la api
 					"protocol": "http",
 					"host": [
 						"apibbva",
@@ -31,7 +31,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://apibbva.test:82/hola/Fany",
+					"raw": "http://apibbva.test:82/hola/Fany", //cambiar a url donde se encuentre alojada la api
 					"protocol": "http",
 					"host": [
 						"apibbva",

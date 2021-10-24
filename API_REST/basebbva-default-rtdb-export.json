@@ -1,0 +1,40 @@
+{
+  "bancos" : [ null, {
+    "clave_registro" : "001ADEB",
+    "nombre" : "BANCO AZTECA",
+    "razon_social" : "Banco Azteca S.A"
+  }, {
+    "clave_registro" : "002ADEB",
+    "nombre" : "BANCO FAMSA",
+    "razon_social" : "Banco Ahorro Famsa S.A"
+  } ],
+  "contracargos" : [ null, {
+    "afiliacion" : 1,
+    "autorizacion" : 831651,
+    "calle" : "Centro Corregidora",
+    "codigo_contracargo" : 4837,
+    "comercio" : "OPENPAY",
+    "cuenta" : "555555******5555",
+    "descripcion_contracargo" : "Fraude Internacional",
+    "email" : "osc87@hotmail.com",
+    "fecha" : "17/09/2012",
+    "fecha_venta" : "17/09/2021",
+    "folio" : "08/10/2021-12",
+    "importe" : 355,
+    "ip" : "192.168.1.28",
+    "nombre_comprador" : "Juan Perez Diaz",
+    "tarjetahabiente" : "Juan Sanchez Díaz",
+    "telefono" : 4426879452,
+    "tipo_operativa" : "VENTA POR INTERNET",
+    "tipo_tarjeta" : "Debito"
+  } ],
+  "fintech" : [ null, {
+    "clave_registro" : "001PP",
+    "nombre" : "CODI",
+    "razon_social" : "Banco de México S.A"
+  }, {
+    "clave_registro" : "002PP",
+    "nombre" : "CONEKTA",
+    "razon_social" : "Grupo Conektame S.A de C.V"
+  } ]
+}
