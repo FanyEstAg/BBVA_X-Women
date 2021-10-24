@@ -3,7 +3,7 @@
 ## Contrabank Online ⚙️
 
 _Puedes Acceder a la aplicación desde el siguiente enlace_
-https://contrabank.azurewebsites.net
+ https://xwomen.000webhostapp.com/index.html
 
 
 ### Tecnologías 🔧
@@ -32,8 +32,7 @@ _SQL Database_
 Nuestra base de datos y los métodos usados para agregar y visualizar datos se 
 encuentran alojados en la nube de Azure, abriendo posibilidad a que pueda mudarse hacia AWS. 
 
-_App Service_
-Despligue de la aplicación web “Contrabank”.
+
 
 ## Autoras ✒️
 
